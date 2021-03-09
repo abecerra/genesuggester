@@ -28,6 +28,7 @@ docker-compose up
 
 ## Tests with curl
 Dependency: curl
+
 With the application running, do:
 ```
 bash curl_requests.sh
