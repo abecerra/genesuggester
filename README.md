@@ -3,7 +3,7 @@
 ## Local install
 Dependencies: python-3.9, pip, mysql
 ```
-git clone git@github.com:abecerra/genesuggester.git
+git clone https://github.com/abecerra/genesuggester.git
 cd genesuggester
 python3 -m venv venv 
 source venv/bin/activate
